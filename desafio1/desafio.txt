@@ -1,0 +1,17 @@
+Segundo o dicionário, a palavra PONTE é definida na ARQUITETURA como uma construção sólida
+em betão, aço ou madeira, destinada a estabelecer comunicação entre dois pontos separados por um curso
+de água ou por uma depressão de terreno.
+A atual presidente da República vai beneficiar alguns estados do BRASIL com a construção de obras de
+grande magnitude e nosso estado será agraciado com uma ponte suspensa que será considerada um marco
+na construção civil, que ligará o estado de Mato Grosso do Sul ao estado de São Paulo.
+Veja a foto a seguir com um exemplo de ponte suspensa já existente em Porto Alegre (RS) e que se difere
+da obra a ser construída, pois na ponte ilustrada, o material usado na sustentação foi uma corda especial, e
+isso impossibilita a passagem de veículos pesados. Assim, como o tráfego previsto para a ponte a ser construída envolve todo tipo de veículo, serão utilizados cabos de aço importados da ALEMANHA.
+A seguir, apresentamos o projeto da ponte a ser construída
+O comprimento da ponte suspensa será fornecido pelo usuário em quilômetros e deve estar entre 2 e
+4. Sabe-se que a ponte terá quatro hastes de sustentação, duas na parte terrestre do estado de Mato Grosso
+do Sul e outras duas na parte terrestre do estado de São Paulo, e estas ficam nas margens direita e esquerda.
+Tem-se, ainda, que a altura da haste, e onde deve ser fixado o cabo de aço mais alto, deve ser de 1/20 da extensão da ponte. O cabo de aço mais alto será fixado obrigatoriamente no meio da ponte. Cada haste, num
+total de quatro, sustentará cinco cabos de aço equidistantes.
+Faça um programa para calcular quantos metros de cabos de aço serão necessários para construir a ponte
+suspensa.
